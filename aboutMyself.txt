@@ -1,0 +1,8 @@
+Title: Miss
+Full Name: Almas Anjum
+USN: 1WT23CS005
+Semester: Third 
+Section : B
+Branch : Computer Science
+Year of ADmission: 2023
+College Name: GITW
