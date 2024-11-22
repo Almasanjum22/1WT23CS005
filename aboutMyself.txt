@@ -6,3 +6,6 @@ Section : B
 Branch : Computer Science
 Year of ADmission: 2023
 College Name: GITW
+School: k.k.High School
+UG: National PU college
+PG: GITW college of Engg
